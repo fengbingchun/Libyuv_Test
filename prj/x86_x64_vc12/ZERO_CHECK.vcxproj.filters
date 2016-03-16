@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\GitCode\Libyuv_Test\prj\x86_x64_vc12\CMakeFiles\82b3947d2ac94f3f04df9d1ed09ab965\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{096A3DE8-E939-4C26-A2D3-461348F6E5E6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

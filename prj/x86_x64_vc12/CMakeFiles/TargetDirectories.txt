@@ -1,0 +1,4 @@
+E:/GitCode/Libyuv_Test/prj/x86_x64_vc12/CMakeFiles/yuv.dir
+E:/GitCode/Libyuv_Test/prj/x86_x64_vc12/CMakeFiles/convert.dir
+E:/GitCode/Libyuv_Test/prj/x86_x64_vc12/CMakeFiles/ALL_BUILD.dir
+E:/GitCode/Libyuv_Test/prj/x86_x64_vc12/CMakeFiles/ZERO_CHECK.dir

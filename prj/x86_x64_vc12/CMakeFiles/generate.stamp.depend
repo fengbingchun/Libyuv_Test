@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+E:/GitCode/Libyuv_Test/src/CMakeLists.txt
+E:/GitCode/Libyuv_Test/prj/x86_x64_vc12/CMakeFiles/3.3.0/CMakeSystem.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeSystemSpecificInitialize.cmake
+E:/GitCode/Libyuv_Test/prj/x86_x64_vc12/CMakeFiles/3.3.0/CMakeCCompiler.cmake
+E:/GitCode/Libyuv_Test/prj/x86_x64_vc12/CMakeFiles/3.3.0/CMakeCXXCompiler.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeSystemSpecificInformation.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeGenericSystem.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/Platform/Windows.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/Platform/WindowsPaths.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeCInformation.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC-C.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC.cmake
+E:/GitCode/Libyuv_Test/prj/x86_x64_vc12/CMakeFiles/3.3.0/CMakeRCCompiler.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeRCInformation.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeCommonLanguageInclude.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeCXXInformation.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/Compiler/MSVC-CXX.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeCommonLanguageInclude.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/FindJPEG.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+D:/ProgramFiles/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
