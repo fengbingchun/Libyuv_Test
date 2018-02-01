@@ -10,6 +10,7 @@ void test_BGRAToNV12(const cv::Mat& matSrc, int width, int height, int size_fram
 
 int main(int argc, char* argv[])
 {
+	// Blog: http://blog.csdn.net/fengbingchun/article/details/50323273
 	cv::Mat matSrc = cv::imread("E:/GitCode/Libyuv_Test/test-images/cat.jpg");
 	if (!matSrc.data) {
 		std::cout << "read src image error" << std::endl;
